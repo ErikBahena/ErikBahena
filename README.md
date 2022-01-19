@@ -1,4 +1,8 @@
-<h3> Greetings, My Name is Erik Bahena </h3>
+
+
+![image](https://user-images.githubusercontent.com/80177106/150216312-97cb35b2-ab57-4ab1-a547-d426e6032b5a.png)
+
+<h3> My Name is Erik Bahena </h3>
 
 
 <h4>- 🔭 I’m currently working on ...</h4>
