@@ -1,8 +1,7 @@
 
 
-![image](https://user-images.githubusercontent.com/80177106/150216312-97cb35b2-ab57-4ab1-a547-d426e6032b5a.png)
+![image](https://github.com/ErikBahena/ErikBahena/blob/main/header.png?raw=true)
 
-<h1> My Name is Erik Bahena </h1>
 Here is paragraph describing who I am, where I came from, where I am at, where I am headed
 Here is paragraph describing who I am, where I came from, where I am at, where I am headed
 Here is paragraph describing who I am, where I came from, where I am at, where I am heade
@@ -103,6 +102,7 @@ Here is paragraph describing who I am, where I came from, where I am at, where I
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 <h2>- 💬 Ask me about ...</h2>
 <p>The Holy Bible</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCmWOMiTT2CnV6JYODpc_4H3v_JgyKS_8wQ&usqp=CAU" />
 
 <h2> How to reach me: ...</h2>
 <p>
