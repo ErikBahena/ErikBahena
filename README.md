@@ -6,6 +6,7 @@
 Here is paragraph describing who I am, where I came from, where I am at, where I am headed
 Here is paragraph describing who I am, where I came from, where I am at, where I am headed
 Here is paragraph describing who I am, where I came from, where I am at, where I am heade
+
 <h2>🔭 I’m currently working on ...</h2>
 
 <p> <a href="https://www.roosepaint.com/" target="_blank">Roosepaint.com</a>, A freelance position building a website for a local painting business!</p>
@@ -83,6 +84,11 @@ Here is paragraph describing who I am, where I came from, where I am at, where I
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
+## My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbahena&layout=compact)](https://github.com/erikbahena/github-readme-stats)
+ 
+![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbahena&show_icons=true&theme=dark)
+
 <h2>🌱 I’m currently learning ...</h2>
 <p>
   GatsbyJS, Career Readiness, Computer Science, Project Design and Project Time Management
@@ -90,20 +96,17 @@ Here is paragraph describing who I am, where I came from, where I am at, where I
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, Projects that promote the freedom of information, Anything related to Artificial Intelligence
+  Open Source Projects, Projects that Promote the Freedom of Information, Anything related to Artificial Intelligence
 </p>
 
-<h2>- 🤔 I’m looking for help with ...</h2>
-<p>
-  Full Stack Projects
-</p>
-
+### Here is a dev joke for you
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 <h2>- 💬 Ask me about ...</h2>
-<p></p>
+<p>The Holy Bible</p>
 
 <h2> How to reach me: ...</h2>
 <p>
-  Click on one of the images below!
+  Click on one of the badges below!
 </p>
 <p>
   <a href="https://www.linkedin.com/in/erikbahena/" target="_blank">
@@ -119,6 +122,5 @@ Here is paragraph describing who I am, where I came from, where I am at, where I
   </a>  
 </p>
 
-<h4>- 😄 Pronouns: ...</h4>
-<p>He, him</p>
-<h4>- ⚡ Fun fact: ...</h4>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=erikbahena&left_color=blue&right_color=black)
+
