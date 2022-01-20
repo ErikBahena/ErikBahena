@@ -100,11 +100,14 @@ Here is paragraph describing who I am, where I came from, where I am at, where I
 
 ### Here is a dev joke for you
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-<h2>- 💬 Ask me about ...</h2>
-<p>The Holy Bible</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCmWOMiTT2CnV6JYODpc_4H3v_JgyKS_8wQ&usqp=CAU" />
 
-<h2> How to reach me: ...</h2>
+<h2>💬 Ask me about ...</h2>
+<p>
+  <b>The Holy Bible</b>
+</p>
+<img src="https://github.com/ErikBahena/ErikBahena/blob/main/5bbeafac55a71-c6e95d54b4549e684c5575d40b84fd4a.png?raw=true" height="150px" width="max-content" />
+
+<h2> How to reach me: </h2>
 <p>
   Click on one of the badges below!
 </p>
