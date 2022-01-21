@@ -2,9 +2,7 @@
 
 ![image](https://github.com/ErikBahena/ErikBahena/blob/main/header.png?raw=true)
 
-Here is paragraph describing who I am, where I came from, where I am at, where I am headed
-Here is paragraph describing who I am, where I came from, where I am at, where I am headed
-Here is paragraph describing who I am, where I came from, where I am at, where I am heade
+I come from a history of backbreaking labor, immigrant parents, and incredible work ethic. Just one lifetime ago no one in my family tree had access to higher education. Just two years ago, I had no idea what software was. Yet here I am, a graduate with hands-on experience building applicable software for the modern world to use. As a web developer, I aim to use my history, technical skills, and life as a stepping stone for future generations to improve their lives.
 
 <h2>🔭 I’m currently working on ...</h2>
 
