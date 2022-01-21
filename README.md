@@ -123,5 +123,4 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
   </a>  
 </p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=erikbahena&left_color=blue&right_color=black)
 
