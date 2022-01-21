@@ -117,10 +117,6 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
   <a href="mailto:erikjbahena@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>
-  
-  <a href="tel:360-843-5566" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  </a>  
 </p>
 
 
