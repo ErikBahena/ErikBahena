@@ -93,7 +93,7 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
 
 <h2>👯 I’m looking to collaborate on ...</h2>
 <p>
-  Open Source Projects, Projects that Promote the Freedom of Information, Anything related to Artificial Intelligence
+  Open Source Projects, Any Projects that Promote the Freedom of Information, Anything related to Artificial Intelligence
 </p>
 
 ### Here is a dev joke for you
