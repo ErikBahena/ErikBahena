@@ -6,7 +6,7 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
 
 <h2>🔭 I’m currently working on ...</h2>
 
-<p> <a href="https://www.roosepaint.com/" target="_blank">Roosepaint.com</a>, A freelance position building a website for a local painting business!</p>
+<p> <a href="https://www.underdogdevs.org/" target="_blank">Underdogdevs.org</a> <br/> "A group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background."</p>
 
 <h2>My Tools...</h2>
 
