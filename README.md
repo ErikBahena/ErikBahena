@@ -4,20 +4,13 @@
 
 I come from a history of backbreaking labor, immigrant parents, and incredible work ethic. Just one lifetime ago no one in my family tree had access to higher education. Just two years ago, I had no idea what software was. Yet here I am, a graduate with hands-on experience building applicable software for the modern world to use. As a web developer, I aim to use my history, technical skills, and life as a stepping stone for future generations to improve their lives.
 
-<h2>🔭 I’m currently working on ...</h2>
-
-<p> <a href="https://www.underdogdevs.org/" target="_blank">Underdogdevs.org</a> <br/> "A group of software engineers helping aspiring developers who are either formerly incarcerated or from an economically disadvantaged background."</p>
+<h2>🔭 I’m currently working with ...</h2>
+  <img src="https://assets.website-files.com/58a949aefd66fc996e174e92/58a94c5751a598cc7c59e4c4_logo-white-500px.png" alt="Invintus Logo" height="100px" width="max-content"/>
+<p> <a href="https://www.invintus.com/" target="_blank">Invintus Media</a> <br/> "... provide practical, cost-effective and proven solutions to organizations to successfully integrate live and on-demand streaming media into their communications strategies"</p>
 
 <h2>My Tools...</h2>
 
-### Communication:
-<p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack badge"/>
-</p>
-
-### Front-End Development:
+### Front-Stack Development:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
@@ -30,60 +23,44 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components badge"/>
 </p>
 
-### Testing Libraries:
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress badge"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Cypress badge"/>
-  
 </p>
-
-### Component Libraries:
 <p>
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/>
 </p>
-
-### Package Management:
 <p>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge"/>
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="npm badge"/>
 </p>
 
-### Code Management:
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
 </p>
-
-### Operating Systems:
-<p>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac os badge"/>
-</p>
-
-### Linters:
 <p>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier badge"/>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint badge"/>
 </p>
 
-### Backend Development:
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge"/>
-  <img src="https://knexjs.org/assets/images/knex.png" alt="knex badge" height="35px" width="max-content"/>
 </p>
-
-### Deployment:
 <p>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku badge"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
-## My Stats
+## 💻 The tech I use most ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbahena&layout=compact)](https://github.com/erikbahena/github-readme-stats)
- 
+
+## 👨🏻‍💻 My stats ...
 ![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbahena&show_icons=true&theme=dark)
 
 <h2>🌱 I’m currently learning ...</h2>
