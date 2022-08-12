@@ -10,7 +10,7 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
 
 <h2>My Tools...</h2>
 
-### Front-Stack Development:
+### Full-Stack Development:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css badge"/>
