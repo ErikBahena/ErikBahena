@@ -4,7 +4,7 @@
 
 I come from a history of backbreaking labor, immigrant parents, and incredible work ethic. Just one lifetime ago no one in my family tree had access to higher education. Just two years ago, I had no idea what software was. Yet here I am, a graduate with hands-on experience building applicable software for the modern world to use. As a web developer, I aim to use my history, technical skills, and life as a stepping stone for future generations to improve their lives.
 
-<h2>🔭 I’m currently working with ...</h2>
+<h2>🔭 I’m currently working with...</h2>
   <img src="https://assets.website-files.com/58a949aefd66fc996e174e92/58a94c5751a598cc7c59e4c4_logo-white-500px.png" alt="Invintus Logo" height="100px" width="max-content"/>
 <p> <a href="https://www.invintus.com/" target="_blank">Invintus Media</a> <br/> "... provide practical, cost-effective and proven solutions to organizations to successfully integrate live and on-demand streaming media into their communications strategies"</p>
 
@@ -57,18 +57,18 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel badge"/>
 </p>
 
-## 💻 The tech I use most ...
+## 💻 The tech I use most...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikbahena&layout=compact)](https://github.com/erikbahena/github-readme-stats)
 
 ## 👨🏻‍💻 My stats ...
 ![Eriks's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikbahena&show_icons=true&theme=dark)
 
-<h2>🌱 I’m currently learning ...</h2>
+<h2>🌱 I’m currently learning...</h2>
 <p>
   GatsbyJS, Career Readiness, Computer Science, Project Design and Project Time Management
 </p>
 
-<h2>👯 I’m looking to collaborate on ...</h2>
+<h2>👯 I’m looking to collaborate on...</h2>
 <p>
   Open Source Projects, Any Projects that Promote the Freedom of Information, Anything related to Artificial Intelligence
 </p>
@@ -76,7 +76,7 @@ I come from a history of backbreaking labor, immigrant parents, and incredible w
 ### Here is a dev joke for you
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-<h2>💬 Ask me about ...</h2>
+<h2>💬 Ask me about...</h2>
 <p>
   <b>The Holy Bible</b>
 </p>
